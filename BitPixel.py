@@ -182,4 +182,4 @@ async def minewiki(ctx, *kwargs):
     await ctx.send(embed = em)
 
 token = os.environ.get('BOT_TOKEN')
-client.run(token, bot = True)
+client.run(str(token), bot = True)
