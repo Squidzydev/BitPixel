@@ -1,0 +1,7 @@
+discord.py
+asyncio
+requests
+beautifulsoup4
+websockets
+aiohttp
+chardet
